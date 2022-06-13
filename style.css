@@ -1104,7 +1104,7 @@ ul.top-menu li ul.top-submenu li a:hover {
  9. Testimonials-Area
 ----------------------------------*/
 .testimonials-area {
-  background: rgba(0, 0, 0, 0) url("img/bg/testimonial-bg.jpg") no-repeat scroll center center / cover ;
+  background: rgba(0, 0, 0, 0) url("img/bg/testimonial-bg.webp") no-repeat scroll center center / cover ;
   overflow: hidden;
   position: relative;
 }
